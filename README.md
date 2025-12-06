@@ -16,12 +16,6 @@ This project demonstrates data fetching, caching, loading states, and error hand
 
 ---
 
-## 📸 Screenshot
-
-(Add your screenshot here)
-
----
-
 ## 🛠️ Technologies Used
 
 - **React + Vite**

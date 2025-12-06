@@ -1,16 +1,40 @@
-# React + Vite
+# React Query Posts App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern React application built with **React Query**, **Tailwind CSS**, and **Skeleton Loader UI**.  
+This project demonstrates data fetching, caching, loading states, and error handling using **@tanstack/react-query**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ Fetch posts using React Query
+- 📦 Automatic caching & background refetch
+- 💀 Beautiful Skeleton Loader (Shimmer animation)
+- 🎨 Modern UI using Tailwind CSS
+- 🔄 Error & Loading state management
+- 📱 Responsive grid layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+(Add your screenshot here)
+
+---
+
+## 🛠️ Technologies Used
+
+- **React + Vite**
+- **@tanstack/react-query**
+- **Tailwind CSS**
+- Fetch API
+
+---
+
+## 📦 Installation
+
+Clone the project:
+
+```bash
+git clone https://github.com/alamincse2003/task-manager-pro
+```

@@ -1,6 +1,6 @@
 # React Query Posts App
 
-A simple and modern React application built with **React Query**, **Tailwind CSS**, and **Skeleton Loader UI**.  
+A simple and modern React application built with **React Query**, **Tailwind CSS**.  
 This project demonstrates data fetching, caching, loading states, and error handling using **@tanstack/react-query**.
 
 ---
